@@ -37,5 +37,4 @@ next (error);
 }
 }
 
-
 export default errorMiddleware;
